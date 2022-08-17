@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 
-<img src='(https://user-images.githubusercontent.com/58649587/185237808-9321c926-9e5e-436d-b83a-a89fa7d433f2.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='    ![HelloWorldPreworkAndroid](https://user-images.githubusercontent.com/58649587/185237947-482882d7-2703-4613-8d24-a60aa1892bc1.gif)             ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
